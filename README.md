@@ -47,7 +47,7 @@ To develop your understanding of the domain, you are advised to independently re
 
 
 ### Data Understanding
-1) **Loan Data Set**: Download the dataset from below. It contains the complete loan data for all loans issued through the time period 2007 t0 2011.
+1) **Loan Data Set**: Download the dataset from below. It contains the complete loan data for all loans issued through the time period 2007 to 2011.
 
 2) **Data Dictionary**: You can access the data dictionary which describes the meaning of these variables from the provided link below:
 
